@@ -1,42 +1,42 @@
 [
   {
-    "_id": "635a4fc34079829eb3a96186",
+    "id": "1",
     "picture": "https://i.ytimg.com/vi/Qmt0QwzEmh0/maxresdefault.jpg",
     "title": "Data Structure",
     "about": "A data structure is a specialized format for organizing, processing, retrieving and storing data. There are several basic and advanced types of data structures, all designed to arrange data to suit a specific purpose. Data structures make it easy for users to access and work with the data they need in appropriate ways. Most importantly, data structures frame the organization of information so that machines and humans can better understand it.\r\n"
   },
   {
-    "_id": "635a4fc3c6caf0ff9deecb30",
+    "id": "2",
     "picture": "https://pandorafms.com/blog/wp-content/uploads/2018/05/what-is-an-algorithm-featured.png",
     "title": "Algorithms",
     "about": "The current term of choice for a problem-solving procedure, algorithm, is commonly used nowadays for the set of rules a machine (and especially a computer) follows to achieve a particular goal. It does not always apply to computer-mediated activity, however. The term may as accurately be used of the steps followed in making a pizza or solving a Rubik’s Cube as for computer-powered data analysis.\r\n"
   },
   {
-    "_id": "635a4fc3f953692a59edd803",
+    "id": "3",
     "picture": "https://i.ytimg.com/vi/eEo_aacpwCw/maxresdefault.jpg",
     "title": "Computer Fundamental",
     "about": "It can be described as the learning or studying some basic functions of computers starting from their origin to the modern day. Study of basic computer types to their characteristics, advantages, and disadvantages are included in the Learning of fundamentals of computers. Before Shifting to advance computer knowledge it is highly recommended to be aware of this topic thoroughly as it would make you more confident and comfortable while acquiring more advanced computer skills.\r\n"
   },
   {
-    "_id": "635a4fc3d02d069700666f93",
+    "id": "4",
     "picture": "https://www.vippng.com/png/detail/398-3984434_c-programming-png.png",
     "title": "C#",
     "about": "C# (pronounced - See Sharp) is a modern, object-oriented, and type-safe programming language. C# enables developers to build many types of secure and robust applications that run in .NET. C# has its roots in the C family of languages and will be immediately familiar to C, C++, Java, and JavaScript programmers. This tour provides an overview of the major components of the language in C# 11 and earlier.\r\n"
   },
   {
-    "_id": "635a4fc3da55b673915b5741",
+    "id": "5",
     "picture": "https://techworm.net/programming/wp-content/uploads/2018/08/Untitled-3.png",
     "title": "Python",
     "about": "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse.\r\n"
   },
   {
-    "_id": "635a4fc34bd715d920fa0e07",
+    "id": "6",
     "picture": "https://zeptosystems.com/wp-content/uploads/2018/10/java-1.jpg",
     "title": "Java",
     "about": "Java is a programming language and computing platform first released by Sun Microsystems in 1995. It has evolved from humble beginnings to power a large share of today’s digital world, by providing the reliable platform upon which many services and applications are built. New, innovative products and digital services designed for the future continue to rely on Java, as well.\r\n"
   },
   {
-    "_id": "635a4fc3e01521fb91843ba9",
+    "id": "7",
     "picture": "http://radicalhub.com/wp-content/uploads/2018/07/javascript.jpg",
     "title": "JavaScript",
     "about": "JavaScript is a powerful programming language that can add interactivity to a website. It was invented by Brendan Eich. JavaScript is versatile and beginner-friendly. With more experience, you'll be able to create games, animated 2D and 3D graphics, comprehensive database-driven apps, and much more! JavaScript itself is relatively compact, yet very flexible. Developers have written a variety of tools on top of the core JavaScript language, unlocking a vast amount of functionality with minimum effort.\r\n"
