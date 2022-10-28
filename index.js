@@ -5,9 +5,7 @@ const cors = require('cors')
 const items = require('./data/contents.json');
 
 app.use(cors())
-app.get('/', (req, res) => {
-  res.send('Hello World!')
-})
+
 app.get('/all-items',(req, res) =>{
   res.send(items)
 })
